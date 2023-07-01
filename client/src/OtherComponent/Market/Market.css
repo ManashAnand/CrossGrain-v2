@@ -1,0 +1,37 @@
+.wholeArea{
+    border: 2px solid black;
+    height: 90vh;
+    background-color: #97cf8a;
+}
+.smallMarket{
+    /* border: 2px solid white; */
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 8rem;
+    align-items: center;
+}
+.sameBtnBtn{
+    border: 2px solid #084cdf;
+    background-color: #084cdf;
+    color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 10rem;
+}
+.samething{
+    /* border: 2px solid red; */
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.MarketPlace{
+    border: 2px solid white;
+    margin: 0 8rem;
+    min-height: 80%;
+    border-radius: 2rem;
+    padding: 1rem;
+}

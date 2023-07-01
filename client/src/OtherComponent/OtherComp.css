@@ -1,0 +1,29 @@
+.outlineBox{
+    border: 2px solid 97cf8a;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 6rem;
+    background-color: #97cf8a;
+}
+
+.containerBox{
+    height: 70%;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+.sameBox_box{
+    border: 2px solid #084cdf;
+    background-color: #084cdf;
+    color: white;
+    padding: 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.sameBox_box:active{
+    transition: scale(0.97);
+}

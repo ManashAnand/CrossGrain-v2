@@ -1,0 +1,26 @@
+.FooterBox{
+    width: 100%;
+    height: 2rem;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    border: 2px solid #36454f;
+    background-color: #36454f;
+    /* border-top: none; */
+    justify-content: space-between;
+    align-items: center;
+    /* border-radius: 0 0 5px 5px; */
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+      rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+      rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: aliceblue;
+      font-family: 'Inter', sans-serif;
+      font-family: 'Neucha', cursive;
+      font-family: 'Playfair Display', serif;
+      font-family: 'Work Sans', sans-serif;
+      font-weight: bolder;
+      font-size: 13px;
+}

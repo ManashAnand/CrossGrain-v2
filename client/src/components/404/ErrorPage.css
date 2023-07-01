@@ -1,0 +1,40 @@
+.errorBox{
+    /* border: 2px solid red; */
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.err{
+    color: orange;
+}
+.zero{
+    color: whitesmoke;
+}
+.err2{
+    color: greenyellow;
+}
+.number{
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+.msg{
+    color: white;
+    /* border: 2px solid red; */
+    text-align: center;
+    width: 15rem;
+    line-height: 2rem;
+}
+.homeErr{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    /* border: 2px solid black; */
+    cursor: pointer;
+    padding: 0.4rem;
+    border-radius: 0.3rem;
+}

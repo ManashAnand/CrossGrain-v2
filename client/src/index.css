@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Six+Caps);
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&family=Neucha&family=Playfair+Display:wght@700&family=Work+Sans:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&family=Josefin+Sans&family=Neucha&family=Playfair+Display:wght@700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: rgb(0, 167, 0);  */
+}

@@ -1,0 +1,39 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@material-ui/icons": "^4.11.3",
+    "@react-google-maps/api": "^2.18.1",
+    "axios": "^1.4.0",
+    "google-maps-react": "^2.0.6",
+    "leaflet": "^1.9.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-geolocated": "^4.1.0",
+    "react-leaflet": "^4.2.1",
+    "react-map-gl": "^7.0.25",
+    "react-router-dom": "^6.11.2",
+    "react-slick": "^0.29.0",
+    "react-slick-slider": "^0.15.10",
+    "react-social-login-buttons": "^3.9.1",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^4.0.0",
+    "eslint": "^8.38.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "vite": "^4.3.2"
+  }
+}

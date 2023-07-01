@@ -1,0 +1,42 @@
+.listingMainBox{
+    border: 2px solid black ;
+    height: 40rem;
+    width: 100%;
+    background-color: #97cf8a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.listingSmallForm{
+    border: 2px solid white;
+    width: 50%;
+    height: 80%;
+}
+
+.ListingBox{
+    border: 2px solid white;
+    height: 30rem;
+    width: 30rem;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.ListingHeader{
+    /* border: 2px solid ; */
+    font-size: 1.8rem;
+    color: black;
+    padding: 1rem;
+}
+.inputList{
+    border: 2px solid white;
+    width: 70%;
+    margin: 0.2rem;
+    height: 2rem;
+    border-radius: 0.3rem;
+}
+.sameSpan{
+    font-size: 1.2rem;
+}

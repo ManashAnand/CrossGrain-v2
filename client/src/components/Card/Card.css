@@ -1,0 +1,25 @@
+.cardBox{
+    border: 2px solid orange;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 2rem;
+    overflow: hidden;
+}
+.cardBox  img {
+    background-size: cover;
+    height: 10rem;
+    width: 10rem;
+    /* back */
+    /* border: 2px solid red; */
+    transition: all 0.3s;
+}
+.cardHoverBox{
+    color: whitesmoke;
+    margin-top: 2rem;
+    height: 2rem;
+    border: 2px solid  orange;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
